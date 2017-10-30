@@ -1,6 +1,21 @@
 # Simple social media
 
-## frontend
+Simple social media to comunicate between users through text post around impact byte members.
+
+----------------------------------------------------------------------------------
+
+## Features
+
+### Users
+- List all users
+
+
+### Posts
+- List all posts
+
+----------------------------------------------------------------------------------
+
+## Frontend
 
 - HTML
 - CSS
@@ -9,7 +24,9 @@
 - Bootstrap
 - Github pages
 
-## backend
+----------------------------------------------------------------------------------
+
+## Backend
 
 - Node.js
 - REST API
@@ -17,3 +34,5 @@
 - MongoDB
 - Mongoose
  -Now.sh
+
+ ---------------------------------------------------------------------------------
