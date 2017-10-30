@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-const API_URL = "http://localhost:8000"
+const API_URL = "https://backend-ehgrqkxryj.now.sh"
 
 class App extends Component {
 
@@ -15,7 +15,7 @@ class App extends Component {
     const RESPONSE = await fetch(API_URL)
     const DATA = await RESPONSE.json()
     this.setState({
-        data: DATA      
+        data: DATA
     })
   }
 
