@@ -1,6 +1,6 @@
-# Simple social media
+# Simple Social Media (SSM)
 
-Simple social media to comunicate between users through text post around impact byte members.
+Simple social media to communicate between users through text post around impact byte members.
 
 ----------------------------------------------------------------------------------
 
