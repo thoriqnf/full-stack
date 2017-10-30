@@ -1,12 +1,12 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import './index.css';
 
-const API_URL = "https://backend-sikfttmpli.now.sh/";
+const API_URL = "https://backend-sikfttmpli.now.sh/"
 
 class App extends Component {
 
   constructor(props){
-      super(constructor)
+      super(props)
       this.state = {
         data:[]
       }
@@ -19,6 +19,7 @@ class App extends Component {
       </div>
     );
   }
+
 }
 
 export default App;
