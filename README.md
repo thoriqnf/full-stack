@@ -2,6 +2,8 @@
 
 Simple social media to communicate between users through text post around impact byte members.
 
+- access it on <http://thoriq-fullstack.surge.sh/>
+- API is on <https://backend-ehgrqkxryj.now.sh/>
 ----------------------------------------------------------------------------------
 
 ## Features
